@@ -1,0 +1,9 @@
+{
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "line",
+  "editor.cursorSurroundingLines": 0,
+  "editor.cursorSurroundingLinesStyle": "default",
+  "editor.wrappingStrategy": "simple",
+  "editor.cursorWidth": 2
+}
